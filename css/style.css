@@ -1,0 +1,72 @@
+body {
+    background-color: cadetblue;
+}
+
+img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+}
+
+#logo {
+    margin-left: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+#header-nav {
+    background-color: antiquewhite;
+}
+
+.navbar button.navbar-toggler {
+    border: 1px solid black;
+    background-color: bisque;
+    margin-right: 20px;
+}
+
+.nav-item .nav-link {
+    background-color: wheat;
+    border: 1px solid darkorange;
+}
+
+.nav-item .nav-link:hover {
+    background-color: darkorange;
+}
+
+.col-xs-12 {
+    border-radius: 15px;
+}
+
+.col-xs-12 #backtop3 {
+    color: greenyellow;
+}
+.col-xs-12 #backtop2 {
+    color: cyan;
+}
+.col-xs-12 #backtop1 {
+    color: hotpink;
+}
+
+h1 {
+    color: aliceblue;
+    margin: 30px;
+}
+
+#salad {
+    background-color: aquamarine;
+    margin-bottom: 20px;
+    border: 1px solid black;
+}
+
+#icecream {
+    background-color: blueviolet;
+    color: aliceblue;
+    margin-bottom: 20px;
+    border: 1px solid black;
+}
+
+#soda {
+    background-color: hotpink;
+    margin-bottom: 20px;
+    border: 1px solid black;
+}
