@@ -637,7 +637,7 @@ progress {
 }
 @media (min-width: 768px) {
   .container-md, .container-sm, .container {
-    max-width: 720px;
+    max-width: 750px;
   }
 }
 @media (min-width: 992px) {
@@ -953,7 +953,9 @@ progress {
 
   .col-sm-6 {
     flex: 0 0 auto;
-    width: 50%;
+    width: 47%;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
   }
 
   .col-sm-7 {
@@ -1156,7 +1158,9 @@ progress {
 
   .col-md-4 {
     flex: 0 0 auto;
-    width: 33.33333333%;
+    width: 30.33333333%;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
   }
 
   .col-md-5 {
